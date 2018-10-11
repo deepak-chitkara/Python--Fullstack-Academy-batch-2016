@@ -1,0 +1,185 @@
+wap that prompts the user to enter a number , if the number is 0 or positive , print it otherwise raise an exception
+
+q2 wap which infinites prints natural numbers , raise the stop iteration exception after displaying first 20 numbers to exit from the program
+
+create a display function policy . wap that validates the name and age taken from the user email id to determine whether a  person can cast a vote or not.
+
+
+
+pattern that contains
+
+one uppercase letter followed by three upper case letters
+
+Write down a pattern word containing z.
+
+A word containing z not starting 
+
+To match astring that contains numbers , uppercase , lowercase , numbers and underscores using search function
+
+A string stating with 5x
+
+
+
+
+
+To call a parent constructor within the child class constructor we can use parent name , __init__ , super keyword
+
+Q-->>Taking person as the base class having name and age attribute . Make two functions base and init . Teacher is derived class of the base attributes- experience and research area init and display ..student derived form base attributes courses  and marks functions init and dsiplay . 
+Teacher and student objects and display the data for the same.
+
+
+
+
+
+
+
+Base 1 will be printed
+
+The output of the above program is base 1 class . Since there is no init function inthe  derived class . The init of the first base is always is called. If the sequence is base eeqfqfwewf
+Since there is no super.init class in the constructor of the base class 
+
+Q-->> Write a class point having two variables x and y . Create a derived class location which has two objects of class  point that is source and destination . Also define a function in a location that will print the distance between the source and destination and another function that prints the reflection of the destination on x axis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A website requires the users to input the username and password to register.Write a program which checks the validity of password input by users.
+Following criteria is required for checking the password.
+   1.) At least one letter between a to z
+       At least one number between 0 to 9
+       At least one letter between A to Z
+       At least one character from $/#/@
+       Min length of transaction password is 6 and ,aximum length is 12.
+Your program shoul accept a sequence of comma separated passwords and will check them according to above criteria.
+A password with satisfied criteria are to be printed in a comma separated manner.
+
+
+
+
+
+
+
+
+Write a program to print only first two characters of every word of the given string
+
+
+Print characetrs and pair of a given string
+
+
+
+Write a program to extract date from the string "Hello , my name is Shrishti and my date of joining is 11-12-2003 and had an experience of more than 15 years." 
+
+
+
+
+hasattr(object,var-name)
+
+getattr()   --  This function is used to access or get the attribute of the object . If the attr doesnt exist in the objects namespace then exception will be raised.
+
+
+setattr count variable
+delete char variable
+
+
+
+build in attributes are associated with every class irrespective of whether they are defined or not.
+
+This attribute gives dictionary containing the classes or objects namespace.
+
+__name__   This returns the name of the class
+
+__module__ This returns the module name where the class is defined.
+
+__basis__  
+
+
+Write a program that has a class person storing the name and date of birth of a person . The program should subtract the date of birth from the todays date.To findout the whether the person is elegible to vote or not. 
+
+
+
+
+Write a program with class employee that keeps a track of number of employees in the organisation with the help of emp count class variable . Also store their name , designation and salary details.Display the total count of employees and their details.																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																	 
+
+
+
+
+
+
+2.If there is a init method in derived class , init of derived overrides the parent init method
+3. To call the init method of the parent class use a super call within a derived init method
+4. In case of multiple inheritance to call all the init methods of the parent classes, super will be placed  in all inits except the last pair
+
+
+
+The diamond problem is not encountered or is handled gracefully in Python. Since the dynamic algorithm C3 and MRO linerise the search order . In left to right ordering such that each class is visited or called only once. Therefore B1 will be called only once for both the copies of init
+
+
+Containership or complex objects or composition
+
+
+
+
+
+Inheritance __
+
+Enables a class to inherit from the base class by extending
+Derived class may override the functionality of base class
+It is a relationship
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enables a class to contain object of different classes as its data members
+The container class cannot alter or override the functionality of base class
+Has a relationship
+
+
+
+
+
+
+
+
+
+
+
+
+q2 -- Write a program that has a class distance with members kms and metres . Derived classes school and office which stores distance of house to school and distnace of house to office and the speed the same
+
+
+q3 -- Write a program with class bill . The user have option to pay bill either by cgeck or cash. Using check and cash classes. the output shuld be in reqired formar=t 
+would you like to pay by check or cash 1/2 ( 1 is for checl payment , 2 is for cash payment)
+If the user enters 1 take the entreies of bank no and check no 
+Display the bill
+If the option is by cash diaplay the bill and total amount only
+
+
+
+
+
+
+
