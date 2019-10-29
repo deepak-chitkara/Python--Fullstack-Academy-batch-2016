@@ -25,7 +25,7 @@ print("Enter the Coordinates")
 for i in range (4):
     a=input("Enter the Movement: ").split()
     b=int(a[1])
-         
+    c=0    
     if (a[0]=='UP'):
         up=b
     if (a[0]=='DOWN'):
