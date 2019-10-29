@@ -175,7 +175,7 @@ q3 -- Write a program with class bill . The user have option to pay bill either 
 would you like to pay by check or cash 1/2 ( 1 is for checl payment , 2 is for cash payment)
 If the user enters 1 take the entreies of bank no and check no 
 Display the bill
-If the option is by cash diaplay the bill and total amount only
+If the option is by cash diaplay the bill and total amount only.
 
 
 
