@@ -12,6 +12,7 @@ Write a program which takes two digits x and y as input and generates a 2d array
 num = input('Enter x and y(with comma) : ').split(',')
 i = int(num[0])
 j = int(num[1])
+c = 0
 main_list = []
 sub_list = []
 
